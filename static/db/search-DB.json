@@ -1,0 +1,399 @@
+[
+  {
+    "name": "Power Protection and Distribution",
+    "path": "/products/power-protection"
+  },
+  {
+    "name": "Cable Management and Support System",
+    "path": "/products/cable-management"
+  },
+  {
+    "name": "Enclosures",
+    "path": "/products/enclosures"
+  },
+  {
+    "name": "Warehouse Storage System",
+    "path": "/products/warehouse-storage"
+  },
+  {
+    "name": "Gaskets",
+    "path": "/products/gaskets"
+  },
+  {
+    "name": "Power Generation and Backup",
+    "path": "/products/power-generation"
+  },
+  {
+    "name": "Lights and Wiring Devices",
+    "path": "/products/lighting-and-wiring-devices"
+  },
+  {
+    "name": "Power and Energy",
+    "path": "/industry-we-serve/power-and-energy"
+  },
+  {
+    "name": "Oil and Gas",
+    "path": "/industry-we-serve/oil-and-gas"
+  },
+  {
+    "name": "Residential and Commercial",
+    "path": "/industry-we-serve/residential-and-commercial"
+  },
+  {
+    "name": "Industrial and Manufacturing",
+    "path": "/industry-we-serve/industrial-and-manufacturing"
+  },
+  {
+    "name": "Telecommunications",
+    "path": "/industry-we-serve/telecommunications"
+  },
+  {
+    "name": "Tranos Elite Range",
+    "path": "/products/power-protection/tranos-elite-range"
+  },
+  {
+    "name": "Siemens SIVACON S8",
+    "path": "/products/power-protection/siemens-sivacon"
+  },
+  {
+    "name": "ATEX Power Panels",
+    "path": "/products/power-protection/atex-power-panel"
+  },
+  {
+    "name": "Siemens SIMOPRIME",
+    "path": "/products/power-protection/siemens-simoprime"
+  },
+  {
+    "name": "Siemens SIMOSEC",
+    "path": "/products/power-protection/siemens-simosec"
+  },
+  {
+    "name": "Cable Trays",
+    "path": "/products/cable-management/trac"
+  },
+  {
+    "name": "Ladders",
+    "path": "/products/cable-management/trac"
+  },
+  {
+    "name": "Supports",
+    "path": "/products/cable-management/trac"
+  },
+  {
+    "name": "Fasteners",
+    "path": "/products/cable-management/trac"
+  },
+  {
+    "name": "Accessories",
+    "path": "/products/cable-management/trac"
+  },
+  {
+    "name": "Eris",
+    "path": "/products/cable-management/eris"
+  },
+  {
+    "name": "Cable Clamp and Cleats",
+    "path": "/products/cable-management/ellis"
+  },
+  {
+    "name": "Cable Glands",
+    "path": "/products/cable-management/cable-glands"
+  },
+  {
+    "name": "Wall mounted enclosures",
+    "path": "/products/enclosures/electrical"
+  },
+  {
+    "name": "Free standing enclosures",
+    "path": "/products/enclosures/electrical"
+  },
+  {
+    "name": "Flush mounted enclosures",
+    "path": "/products/enclosures/electrical"
+  },
+  {
+    "name": "Sound proof enclosures",
+    "path": "/products/enclosures/mechanical"
+  },
+  {
+    "name": "Protective enclosures",
+    "path": "/products/enclosures/mechanical"
+  },
+  {
+    "name": "Customised IT enclosures",
+    "path": "/products/enclosures/servers-and-datacenter-racks"
+  },
+  {
+    "name": "Standard IT enclosures",
+    "path": "/products/enclosures/servers-and-datacenter-racks"
+  },
+  {
+    "name": "Battery cabinets and racks",
+    "path": "/products/enclosures/battery-cabinets-and-racks"
+  },
+
+  {
+    "name": "Customised",
+    "path": "/products/enclosures/customised"
+  },
+  {
+    "name": "ATEX Junction Boxes",
+    "path": "/products/enclosures/atex-junction-boxes"
+  },
+  {
+    "name": "Meter Boxes",
+    "path": "/products/enclosures/meter-boxes"
+  },
+  {
+    "name": "Standard Pallet Racks",
+    "path": "/products/warehouse-storage"
+  },
+  {
+    "name": "Industrial warehouse shelving",
+    "path": "/products/warehouse-storage"
+  },
+  {
+    "name": "Industrial Mezzanines",
+    "path": "/products/warehouse-storage"
+  },
+  {
+    "name": "Pallet Rack Safety Accessories",
+    "path": "/products/warehouse-storage"
+  },
+  {
+    "name": "Spiral wound gaskets",
+    "path": "/products/gaskets/spiral-wound-gaskets"
+  },
+  {
+    "name": "Soft cut gaskets",
+    "path": "/products/gaskets/soft-cut-gaskets"
+  },
+  {
+    "name": "Kammprofile gaskets",
+    "path": "/products/gaskets/kammprofile-gaskets"
+  },
+  {
+    "name": "Gas-Powered Generators",
+    "path": "/products/power-generation/gas-powered-generators"
+  },
+  {
+    "name": "TG: 1000",
+    "path": "/products/power-generation/gas-powered-generators"
+  },
+  {
+    "name": "TG: 1200",
+    "path": "/products/power-generation/gas-powered-generators"
+  },
+  {
+    "name": "TG: 1800",
+    "path": "/products/power-generation/gas-powered-generators"
+  },
+  {
+    "name": "TG: 2000",
+    "path": "/products/power-generation/gas-powered-generators"
+  },
+  {
+    "name": "Duro",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "FT40",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "Grace",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "Wave",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "KC1",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "PL",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "GU10",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "LL20",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "T8 Single end",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "JL Gen3 HV Strip",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "SS20",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "Mirror Light",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/duro"
+  },
+  {
+    "name": "Valor",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/valor"
+  },
+  {
+    "name": "Ceiling Light",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/valor"
+  },
+  {
+    "name": "Sensing CL",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/valor"
+  },
+  {
+    "name": "SP1",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/valor"
+  },
+  {
+    "name": "T5",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/valor"
+  },
+  {
+    "name": "T8 Double end",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/valor"
+  },
+  {
+    "name": "LED Bulbs",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/valor"
+  },
+  {
+    "name": "Downlight",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/lighting/valor"
+  },
+  {
+    "name": "Simon V8",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/switches-and-sockets"
+  },
+  {
+    "name": "Simon E6",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/switches-and-sockets"
+  },
+  {
+    "name": "Simon E3",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/switches-and-sockets"
+  },
+  {
+    "name": "V8",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/switches-and-sockets"
+  },
+  {
+    "name": "E6",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/switches-and-sockets"
+  },
+  {
+    "name": "E3",
+    "path": "/products/lighting-and-wiring-devices/residential-and-commercial/switches-and-sockets"
+  },
+  {
+    "name": "Explosion-Proof Plug & Sockets (GRP)",
+    "path": "/products/lighting-and-wiring-devices/industrial/wiring-devices"
+  },
+  {
+    "name": "Explosion-Proof Plug & Sockets (Aluminium)",
+    "path": "/products/lighting-and-wiring-devices/industrial/wiring-devices"
+  },
+  {
+    "name": "Explosion-Proof Plug Connectors",
+    "path": "/products/lighting-and-wiring-devices/industrial/wiring-devices"
+  },
+  {
+    "name": "Explosion-Proof Movable Distribution Boards",
+    "path": "/products/lighting-and-wiring-devices/industrial/wiring-devices"
+  },
+  {
+    "name": "Explosion-Proof Control Stations",
+    "path": "/products/lighting-and-wiring-devices/industrial/wiring-devices"
+  },
+  {
+    "name": "Explosion-Proof Control Unit Systems",
+    "path": "/products/lighting-and-wiring-devices/industrial/wiring-devices"
+  },
+  {
+    "name": "Motor Starters",
+    "path": "/products/lighting-and-wiring-devices/industrial/wiring-devices"
+  },
+  {
+    "name": "Explosion-Proof Motor Starters (Ex D E IIC)",
+    "path": "/products/lighting-and-wiring-devices/industrial/wiring-devices"
+  },
+  {
+    "name": "Explosion-Proof Switches",
+    "path": "/products/lighting-and-wiring-devices/industrial/wiring-devices"
+  },
+  {
+    "name": "Explosion-Proof Motor Switches",
+    "path": "/products/lighting-and-wiring-devices/industrial/wiring-devices"
+  },
+  {
+    "name": "Explosion-Proof Motor Switches (Ex D IIC)",
+    "path": "/products/lighting-and-wiring-devices/industrial/wiring-devices"
+  },
+  {
+    "name": "Explosion-Proof Light Fittings For Fluorescent Lamp",
+    "path": "/products/lighting-and-wiring-devices/industrial/lighting/"
+  },
+  {
+    "name": "Explosion-Proof Light Fittings For Fluorescent Lamp (LED)",
+    "path": "/products/lighting-and-wiring-devices/industrial/lighting/"
+  },
+  {
+    "name": "Explosion-Proof LED Lightings",
+    "path": "/products/lighting-and-wiring-devices/industrial/lighting/"
+  },
+  {
+    "name": "Explosion-Proof LED Floodlights",
+    "path": "/products/lighting-and-wiring-devices/industrial/lighting/"
+  },
+  {
+    "name": "Explosion-Proof Light Fittings",
+    "path": "/products/lighting-and-wiring-devices/industrial/lighting/"
+  },
+  {
+    "name": "Explosion-Proof Lightings",
+    "path": "/products/lighting-and-wiring-devices/industrial/lighting/"
+  },
+  {
+    "name": "Containerized Generator Enclosure unit.",
+    "path": "/case-studies/power-and-energy/one"
+  },
+  {
+    "name": "2 Megawatts Generator Enclosure Project:",
+    "path": "/case-studies/power-and-energy/cummins-west-africa-limited"
+  },
+  {
+    "name": "Packaged Sub-station",
+    "path": "/case-studies/power-and-energy/pilot-science"
+  },
+  {
+    "name": "Energy Bunkers",
+    "path": "/case-studies/power-and-energy/ledco"
+  },
+  {
+    "name": "Coleman Distribution and Control Panels",
+    "path": "/case-studies/power-and-energy/coleman"
+  },
+  {
+    "name": "Synchronized & Distribution Panel Assembly",
+    "path": "/case-studies/power-and-energy/one"
+  },
+  {
+    "name": "Synchronized & Control Panel Assembly",
+    "path": "/case-studies/power-and-energy/animal-care"
+  },
+  {
+    "name": "Synchronized & Control Panel Assembly",
+    "path": "/case-studies/power-and-energy/animal-care"
+  }
+]
